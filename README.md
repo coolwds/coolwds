@@ -1,4 +1,8 @@
-## Hi there 👋
+## 👋 Hi, I'm Dongsheng Wang.
+
+- 🌱 Delicate facial features are the beginning of the heart, 
+- 🌱 Charming temperament is the abyss of emotion. 
+- 📈 Visitor: <img src=https://profile-counter.glitch.me/wds94/count.svg width=140 />
 
 <!--
 **wds94/wds94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
