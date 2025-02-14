@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Dongsheng Wang.
+## 👋 Hi, I'm DS.Wang.
 
 - 🌱 Delicate facial features are the beginning of the heart, 
 - 🌱 Charming temperament is the abyss of emotion. 
